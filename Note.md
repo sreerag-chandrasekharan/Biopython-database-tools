@@ -3,3 +3,9 @@ The National Center for Biotechnology Information is part of the National Librar
 
 # BLAST: Basic Local Alignment Search Tool
 The Basic Local Alignment Search Tool (BLAST) finds regions of local similarity between sequences.
+
+# FASTA
+A FASTA sequence is a text-based format for representing nucleotide or peptide sequences using single-letter codes
+
+# Nucleotide
+nucleotide is a molecule composed of a nitrogenous base, and one or more phosphate groups. Examples include Adenosine Triphosphate (ATP), Cytidine Triphosphate (CTP), and Deoxyadenosine Triphosphate (dATP). 
