@@ -12,3 +12,6 @@ nucleotide is a molecule composed of a nitrogenous base, and one or more phospha
 
 # ENTREZ
 Entrez allows users to retrieve and analyze various types of biological data, such as DNA and protein sequences, gene information, protein structures, and relevant scientific literature. 
+
+# PDB
+The Protein Data Bank (PDB) is the single global archive for experimentally determined three-dimensional structures of biological macromolecules, such as proteins, DNA, and RNA
